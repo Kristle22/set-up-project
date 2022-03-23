@@ -8,7 +8,7 @@ body * {
 
 body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #AB59C1;
+    background-color: #c53febf3;
 }
 
 .container {
@@ -20,7 +20,11 @@ body {
     width: 40%;
     float: left;
     padding: 40px;
-    background-color: #008fae;
+    background-color: #4d229cdc;
+    background-image: url('../img/blue-hills.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
     color: #fff;
 }
 .main-title {
