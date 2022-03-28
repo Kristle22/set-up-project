@@ -1,6 +1,7 @@
 body {
     height: 100vh;
     position: relative;
+    backdrop-filter: blur(10px);
 }
 .container {
     display:inline-block;
